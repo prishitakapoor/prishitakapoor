@@ -106,7 +106,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/prishitakapoor/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=prishitakapoor&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/prishitakapoor/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/prishitakapoor/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=prishitakapoor&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
