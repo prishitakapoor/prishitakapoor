@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prishitakapoor.prishitakapoor">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+PRISHITA+KAPOOR....;&center=true&size=27">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+PRISHITA+KAPOOR.;&center=true&size=29">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/prishitakapoor/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/prishitakapoor/" title="LinkedIn Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
