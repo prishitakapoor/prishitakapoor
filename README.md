@@ -34,9 +34,9 @@
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/main/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/main/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/main/images/python-original.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/main/images/problemSolving.png"></code>
