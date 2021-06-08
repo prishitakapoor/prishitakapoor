@@ -14,20 +14,17 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Prishita Kapoor, Electronic & Communication Engineer from India
+  Hi, I'm Prishita Kapoor, Electronic & Communication Engineer from India.
   <br>
+  🎓 I graduated from Charusat University in 2021.
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Charusat University
-  <br>
-  🎓 I did my schooling from St. Xavier's High School
+  🎓 I did my schooling from St. Xavier's High School.
   <br>
   💻 I love writing code  and learn anythings about it
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django and new frameworks in ML.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/prishitakapoor/prishitakapoor/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: prishitakapoor2@gmail.com"> prishitakapoor2@gmail.com</a>
 </p>
