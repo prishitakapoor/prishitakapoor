@@ -102,7 +102,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/prishitakapoor/cpp-openmp-needleman-wunsch" title="
 Bird-Species-detection-using-ConvNet-Architecture"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=prishitakapoor&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/prishitakapoor/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=prishitakapoor&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/prishitakapoor/cpp-SARCASM-DETECTION-IN-NEWSPAPER" title="SARCASM-DETECTION-IN-NEWSPAPER"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=prishitakapoor&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
