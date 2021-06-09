@@ -56,7 +56,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/colab.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/json.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/IBM.png"></code>
   <code><img title="Unity" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/sk-learn.png"></code>
   <code><img title="Android" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jupter.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/github.svg"></code>
