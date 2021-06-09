@@ -58,7 +58,7 @@
   <code><img title="colab" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/colab.png"></code>
   <code><img title="IBM" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/IBM.png"></code>
   <code><img title="sk-learn" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/sk-learn.png"></code>
-  <code><img title="jypter" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jypter.png"></code>
+  <code><img title="jupyter" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jupyter.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/mysql.svg"></code>
   <code><img title="pytorch" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/pytorch.png"></code>
