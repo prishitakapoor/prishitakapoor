@@ -32,14 +32,14 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages,Frameworks,Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cpp.svg"></code>
   <code><img title="C#" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/django.png"></code>
+  <code><img title="django" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/AWS.png"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/problemSolving.png"></code>
   <code><img title="shogun" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/html5.svg"></code>
