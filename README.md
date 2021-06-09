@@ -40,7 +40,7 @@
   <code><img title="C#" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/javascript.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/AWS.png"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/css.svg"></code>
