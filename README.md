@@ -45,9 +45,9 @@
   <code><img title="shogun" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/shogun.png"></code>
   <code><img title="SASS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/sass.svg"></code>
-  <code><img title="cafee" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cafee.png"></code>
-  <code><img title="theano" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/theano.png"></code>
-  <code><img title="spark" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/spark.png"></code>
+  <code><img title="Cafee" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cafee.png"></code>
+  <code><img title="Theano" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/theano.png"></code>
+  <code><img title="Spark" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/spark.png"></code>
   <code><img title="Rapidminer" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/RapidMiner.png"></code>
   <code><img title="Git" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/dotnetcore.svg"></code>
@@ -62,7 +62,7 @@
   <code><img title="GitHub" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/mysql.svg"></code>
   <code><img title="pytorch" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/pytorch.png"></code>
-  <code><img title="tensorflow" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/tensorflow.png"></code>
+  <code><img title="Tensorflow" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/tensorflow.png"></code>
   <code><img title="Keras" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/Keras.png"></code>
 </p>
 <hr>
