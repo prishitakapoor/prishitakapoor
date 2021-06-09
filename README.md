@@ -42,28 +42,28 @@
   <code><img title="Django" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/AWS.png"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/css.svg"></code>
+  <code><img title="shogun" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/shogun.png"></code>
   <code><img title="SASS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/gulp.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/angularjs.png"></code>
+  <code><img title="cafee" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/cafee.png"></code>
+  <code><img title="theano" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/theano.png"></code>
+  <code><img title="spark" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/spark.png"></code>
+  <code><img title="Rapidminer" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/RapidMiner.png"></code>
   <code><img title="Git" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/colab.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/IBM.png"></code>
-  <code><img title="Unity" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/sk-learn.png"></code>
-  <code><img title="Android" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jupter.png"></code>
+  <code><img title="colab" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/colab.png"></code>
+  <code><img title="IBM" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/IBM.png"></code>
+  <code><img title="sk-learn" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/sk-learn.png"></code>
+  <code><img title="jypter" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/jypter.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/pytorch.png"></code>
-  <code><img title="PHP" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/tensorflow.png"></code>
-  <code><img title="Flask" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/Keras.png"></code>
+  <code><img title="pytorch" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/pytorch.png"></code>
+  <code><img title="tensorflow" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/tensorflow.png"></code>
+  <code><img title="Keras" height="25" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/Keras.png"></code>
 </p>
 <hr>
 
