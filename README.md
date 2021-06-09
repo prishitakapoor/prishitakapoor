@@ -8,8 +8,8 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/prishitakapoor/" title="LinkedIn Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.hackerrank.com/prishitakapoor" title="HackerRank Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/prishitakapoor" title="Stack Overflow Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/prishita_kapoor/" title="Instagram Profile"><img width="22" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
