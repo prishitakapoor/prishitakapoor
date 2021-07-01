@@ -22,7 +22,7 @@
   <br>
   💻 I’m currently working as a Research intern in ISRO(Indian Space Research Organization).
   <br>
-  💻 I love writing codes and learn anythings about it.
+  💻 I love writing codes and learn anything related to it.
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django and new frameworks in ML.
   <br>
