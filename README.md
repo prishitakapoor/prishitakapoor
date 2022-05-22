@@ -20,7 +20,7 @@
   <br>
   🎓 I did my schooling from St. Xavier's High School.
   <br>
-  💻 I’m currently working as a Research intern in ISRO(Indian Space Research Organization).
+  💻 I’m currently working as a Researcher at ISRO(Indian Space Research Organization).
   <br>
   💻 I love writing codes and learn anything related to it.
   <br>
