@@ -32,7 +32,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages,Frameworks,Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages,Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="27" src="https://github.com/prishitakapoor/prishitakapoor/blob/main/images/python-original.svg"></code>
