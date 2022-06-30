@@ -16,11 +16,11 @@
 <p align="center">
   Hi, I'm Prishita Kapoor, Electronic & Communication Engineer from India.
   <br>
-  🎓 I graduated from Charusat University in 2021.
+  🎓 I did my graduation from Charusat University in 2021.
   <br>
   🎓 I did my schooling from St. Xavier's High School.
   <br>
-  💻 I’m currently working as a Researcher at ISRO(Indian Space Research Organization).
+  💻 I’m have 10 months of experience asSoftware Developer at ISRO(Indian Space Research Organization).
   <br>
   💻 I love writing codes and learn anything related to it.
   <br>
@@ -28,7 +28,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/prishitakapoor/prishitakapoor/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: prishitakapoor2@gmail.com"> prishitakapoor2@gmail.com</a>
+  📫 How to reach me: <a href="mailto: prishitakapoor9@gmail.com"> prishitakapoor9@gmail.com</a>
 </p>
 
 <hr>
