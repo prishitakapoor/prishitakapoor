@@ -26,8 +26,6 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django and new frameworks in ML.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/prishitakapoor/prishitakapoor/issues" title="Issues">Here</a>
-  <br>
   📫 How to reach me: <a href="mailto: prishitakapoor9@gmail.com"> prishitakapoor9@gmail.com</a>
 </p>
 
