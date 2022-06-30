@@ -14,13 +14,13 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Prishita Kapoor, Electronic & Communication Engineer from India.
+  Hi, I'm Prishita Kapoor.
   <br>
   🎓 I did my graduation from Charusat University in 2021.
   <br>
-  🎓 I did my schooling from St. Xavier's High School.
+  💻 I’m have 10 months of experience as Software Developer at ISRO(Indian Space Research Organization).
   <br>
-  💻 I’m have 10 months of experience asSoftware Developer at ISRO(Indian Space Research Organization).
+  🎓 I did my schooling from St. Xavier's High School.
   <br>
   💻 I love writing codes and learn anything related to it.
   <br>
@@ -31,6 +31,9 @@
   📫 How to reach me: <a href="mailto: prishitakapoor9@gmail.com"> prishitakapoor9@gmail.com</a>
 </p>
 
+
+
+<!--
 <hr>
 <h2 align="center">🔥 Languages,Frameworks & Tools 🔥</h2>
 <br>
@@ -75,7 +78,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 
 ![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
