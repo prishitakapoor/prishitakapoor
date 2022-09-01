@@ -23,7 +23,7 @@
   <br>
   💻 I love writing codes and learn anything related to it.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django and new frameworks in ML.
+  📚 I’m currently learning how to build Goloang and new frameworks in ML.
   <br>
   📫 How to reach me: <a href="mailto: prishitakapoor9@gmail.com"> prishitakapoor9@gmail.com</a>
 </p>
