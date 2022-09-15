@@ -17,13 +17,13 @@
   <br>
   🎓 I did my graduation from Charusat University in 2021.
   <br>
-  💻 I’m have 10 months of experience as Software Developer at ISRO(Indian Space Research Organization).
+  💻 I’m have 1.5 years of experience as Software Developer.
   <br>
   🎓 I did my schooling from St. Xavier's High School.
   <br>
   💻 I love writing codes and learn anything related to it.
   <br>
-  📚 I’m currently learning how to build Goloang and new frameworks in ML.
+  📚 I’m currently learning Goloang and new frameworks in ML.
   <br>
   📫 How to reach me: <a href="mailto: prishitakapoor9@gmail.com"> prishitakapoor9@gmail.com</a>
 </p>
