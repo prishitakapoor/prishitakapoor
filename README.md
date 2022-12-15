@@ -17,7 +17,7 @@
   <br>
   🎓 I did my graduation from Charusat University in 2021.
   <br>
-  💻 I’m have 1.5 years of experience as Software Developer.
+  💻 I’m have 2 years of experience as Software Developer.
   <br>
   🎓 I did my schooling from St. Xavier's High School.
   <br>
