@@ -23,7 +23,7 @@
   <br>
   💻 I love writing codes and learn anything related to it.
   <br>
-  📚 I’m currently learning Goloang and new frameworks in ML.
+  📚 I’m currently learning about blockchain technology.
   <br>
   📫 How to reach me: <a href="mailto: prishitakapoor9@gmail.com"> prishitakapoor9@gmail.com</a>
 </p>
