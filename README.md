@@ -15,7 +15,7 @@
 <p align="center">
   Hi, I'm Prishita Kapoor.
   <br>
-  🎓 I did my graduation from Charusat University in 2021.
+  🎓 I did my graduation from Charusat University in 2021.And presently doing my postgraduation from Nirma University.
   <br>
   💻 I’m have 2 years of experience as Software Developer.
   <br>
